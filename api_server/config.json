@@ -1,0 +1,3 @@
+{
+  "prediction_api": "http://localhost:8501/v1/models/{}:predict"
+}
